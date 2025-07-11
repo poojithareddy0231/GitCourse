@@ -1,4 +1,12 @@
 Service class added
  Processing the data
+<<<<<<< HEAD
  Adding more users
  
+=======
+ 
+ 
+ 
+ 
+
+>>>>>>> feature1
